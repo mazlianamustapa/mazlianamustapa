@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mazliana Mustapa 👋
 
 ### 🚀 Computer Vision Researcher & Machine Learning Engineer
 I specialize in **Artificial Intelligence, Deep Learning, and Computer Vision**, with a particular focus on **image segmentation and precision agriculture**. Currently, I am working on advancing automated solutions for plant pathology to improve crop yields and sustainability.
