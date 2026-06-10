@@ -51,9 +51,8 @@ I specialize in **Artificial Intelligence, Deep Learning, and Computer Vision**,
 
 ## 🤝 Connect with Me
 
-*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*   **Google Scholar:** [Your Scholar Profile](https://scholar.google.com)
-*   **Email:** your.email@example.com
+*   **LinkedIn: https://www.linkedin.com/in/mazliana-mustapa-327a23209/** 
+*    **Email:mazliana.research@gmail.com** 
 
 ⚡ *Fun fact: I use deep learning to read the language of plants, helping secure food production one pixel at a time.*
 
